@@ -1,0 +1,6 @@
+C:\Users\Knight\Documents\GitHub\Projects\C Sharp Console Test\C Sharp Console Test\bin\Debug\C Sharp Console Test.exe.config
+C:\Users\Knight\Documents\GitHub\Projects\C Sharp Console Test\C Sharp Console Test\bin\Debug\C Sharp Console Test.exe
+C:\Users\Knight\Documents\GitHub\Projects\C Sharp Console Test\C Sharp Console Test\bin\Debug\C Sharp Console Test.pdb
+C:\Users\Knight\Documents\GitHub\Projects\C Sharp Console Test\C Sharp Console Test\obj\Debug\C Sharp Console Test.csprojResolveAssemblyReference.cache
+C:\Users\Knight\Documents\GitHub\Projects\C Sharp Console Test\C Sharp Console Test\obj\Debug\C Sharp Console Test.exe
+C:\Users\Knight\Documents\GitHub\Projects\C Sharp Console Test\C Sharp Console Test\obj\Debug\C Sharp Console Test.pdb
